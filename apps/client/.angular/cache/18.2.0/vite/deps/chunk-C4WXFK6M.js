@@ -1,11 +1,11 @@
 import {
-  SelectionModel,
-  isDataSource
-} from "./chunk-KMHQFHBC.js";
-import {
   TREE_KEY_MANAGER,
   coerceObservable
 } from "./chunk-AGVJZCMZ.js";
+import {
+  SelectionModel,
+  isDataSource
+} from "./chunk-KMHQFHBC.js";
 import {
   Directionality
 } from "./chunk-U7PNNX52.js";
@@ -1719,4 +1719,4 @@ export {
   CdkTreeNodeToggle,
   CdkTreeModule
 };
-//# sourceMappingURL=chunk-PF6J3XE3.js.map
+//# sourceMappingURL=chunk-C4WXFK6M.js.map

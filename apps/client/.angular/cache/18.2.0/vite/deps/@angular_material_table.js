@@ -29,6 +29,8 @@ import {
 import {
   MatCommonModule
 } from "./chunk-TXIHZU7Y.js";
+import "./chunk-AGVJZCMZ.js";
+import "./chunk-IA7NIZHX.js";
 import "./chunk-YT7WTQGE.js";
 import {
   DataSource,
@@ -36,8 +38,6 @@ import {
   _RecycleViewRepeaterStrategy,
   _VIEW_REPEATER_STRATEGY
 } from "./chunk-KMHQFHBC.js";
-import "./chunk-AGVJZCMZ.js";
-import "./chunk-IA7NIZHX.js";
 import "./chunk-5KX4SCY5.js";
 import "./chunk-U7PNNX52.js";
 import {

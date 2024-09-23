@@ -1,4 +1,9 @@
 import {
+  AnimationCurves,
+  AnimationDurations,
+  MatCommonModule
+} from "./chunk-TXIHZU7Y.js";
+import {
   animate,
   animateChild,
   keyframes,
@@ -7,12 +12,7 @@ import {
   style,
   transition,
   trigger
-} from "./chunk-MW2NBCEV.js";
-import {
-  AnimationCurves,
-  AnimationDurations,
-  MatCommonModule
-} from "./chunk-TXIHZU7Y.js";
+} from "./chunk-5IJD3VEX.js";
 import {
   AriaDescriber,
   FocusMonitor

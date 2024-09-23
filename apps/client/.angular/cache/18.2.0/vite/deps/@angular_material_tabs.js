@@ -2,27 +2,17 @@ import {
   SharedResizeObserver
 } from "./chunk-4X7RBNXX.js";
 import {
-  animate,
-  state,
-  style,
-  transition,
-  trigger
-} from "./chunk-MW2NBCEV.js";
-import {
   MAT_RIPPLE_GLOBAL_OPTIONS,
   MatCommonModule,
   MatRipple
 } from "./chunk-TXIHZU7Y.js";
 import {
-  CdkScrollable,
-  ViewportRuler
-} from "./chunk-YT7WTQGE.js";
-import "./chunk-KMHQFHBC.js";
-import {
-  CdkPortal,
-  CdkPortalOutlet,
-  TemplatePortal
-} from "./chunk-FWP72GYV.js";
+  animate,
+  state,
+  style,
+  transition,
+  trigger
+} from "./chunk-5IJD3VEX.js";
 import {
   CdkMonitorFocus,
   FocusKeyManager,
@@ -31,6 +21,11 @@ import {
 import {
   CdkObserveContent
 } from "./chunk-IA7NIZHX.js";
+import {
+  CdkScrollable,
+  ViewportRuler
+} from "./chunk-YT7WTQGE.js";
+import "./chunk-KMHQFHBC.js";
 import {
   ENTER,
   SPACE,
@@ -44,6 +39,11 @@ import {
   Platform,
   normalizePassiveListenerOptions
 } from "./chunk-FQLCWTAA.js";
+import {
+  CdkPortal,
+  CdkPortalOutlet,
+  TemplatePortal
+} from "./chunk-FWP72GYV.js";
 import {
   DOCUMENT
 } from "./chunk-WVLOWA2J.js";

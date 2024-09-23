@@ -4,11 +4,6 @@ import {
   ViewportRuler
 } from "./chunk-YT7WTQGE.js";
 import {
-  DomPortalOutlet,
-  PortalModule,
-  TemplatePortal
-} from "./chunk-FWP72GYV.js";
-import {
   ESCAPE,
   hasModifierKey
 } from "./chunk-5KX4SCY5.js";
@@ -26,6 +21,11 @@ import {
   _isTestEnvironment,
   supportsScrollBehavior
 } from "./chunk-FQLCWTAA.js";
+import {
+  DomPortalOutlet,
+  PortalModule,
+  TemplatePortal
+} from "./chunk-FWP72GYV.js";
 import {
   DOCUMENT,
   Location
@@ -2879,4 +2879,4 @@ export {
   OverlayModule,
   FullscreenOverlayContainer
 };
-//# sourceMappingURL=chunk-6ZEIVI73.js.map
+//# sourceMappingURL=chunk-KUD3MEVC.js.map

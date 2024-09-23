@@ -8,7 +8,7 @@ import { RouterModule } from '@angular/router';
 import { CardComponent } from './SEV/components/card/card.component';
 import { HomePageComponent } from './SEV/pages/HomePage/HomePage.component';
 import { MaterialModule } from './SEV/material/material/material.module';
-import { NavBarComponent } from './SEV/components/navBar/navBar.component';
+
 import { NoticiasComponent } from './SEV/pages/Noticias/Noticias.component';
 import { CardNoticiaComponent } from './SEV/components/card-noticia/card-noticia.component';
 
@@ -16,6 +16,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { SignalCard } from './SEV/components/signal/signal.component';
 import { ManualSeñalesComponent } from './SEV/pages/ManualSeñales/ManualSeñales.component';
 import { idCategoryPipe } from './SEV/pipe/categoryId.pipe';
+import { Navbar } from './SEV/components/navBar/navBar.component';
 
 
 @NgModule({
@@ -23,7 +24,7 @@ import { idCategoryPipe } from './SEV/pipe/categoryId.pipe';
     AppComponent,
     CardComponent,
     HomePageComponent,
-    NavBarComponent,
+    Navbar,
     NoticiasComponent,
     CardNoticiaComponent,
     ManualSeñalesComponent,

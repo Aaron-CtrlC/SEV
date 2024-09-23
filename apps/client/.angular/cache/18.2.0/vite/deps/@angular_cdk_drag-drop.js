@@ -1,14 +1,14 @@
 import {
+  isFakeMousedownFromScreenReader,
+  isFakeTouchstartFromScreenReader
+} from "./chunk-AGVJZCMZ.js";
+import "./chunk-IA7NIZHX.js";
+import {
   CdkScrollableModule,
   ScrollDispatcher,
   ViewportRuler
 } from "./chunk-YT7WTQGE.js";
 import "./chunk-KMHQFHBC.js";
-import {
-  isFakeMousedownFromScreenReader,
-  isFakeTouchstartFromScreenReader
-} from "./chunk-AGVJZCMZ.js";
-import "./chunk-IA7NIZHX.js";
 import "./chunk-5KX4SCY5.js";
 import {
   Directionality
